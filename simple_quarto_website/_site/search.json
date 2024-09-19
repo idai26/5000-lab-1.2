@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "about.html#here-is-a-plot-of-the-data",
+    "href": "about.html#here-is-a-plot-of-the-data",
+    "title": "About",
+    "section": "Here is a plot of the data",
+    "text": "Here is a plot of the data\n\nimport matplotlib.pyplot as plt\n\nplt.scatter(x,y,c=\"red\")\n\n\n\n\n\n\n\n\n\nThere is no real pattern to this data"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "index.html#section-1.1",
+    "href": "index.html#section-1.1",
+    "title": "simple_quarto_website",
+    "section": "Section 1.1",
+    "text": "Section 1.1\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\nUt enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. (Curiel and DeLuca 2024)\n\n\n\nAnother photo of my dog, Bounty!\n\n\n\n\nimage\n\n\n  graph TD;\n      A--&gt;B;\n      A--&gt;C;\n      B--&gt;D;\n      C--&gt;D;\n\nSection 1.1.1\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Also, \\(y = mx+b\\)!\n\n\n\\[\n\\hat{y_i}=\\hat{\\beta_0}+\\hat{\\beta_1}X_i+\\epsilon_i\n\\]"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\n道德经↩︎"
+  },
+  {
+    "objectID": "slides/slides.html#bounty",
+    "href": "slides/slides.html#bounty",
+    "title": "My Dog",
+    "section": "Bounty",
+    "text": "Bounty\n\nimage\nHe is 14 (Curiel and DeLuca 2024)"
+  },
+  {
+    "objectID": "slides/slides.html#havanese",
+    "href": "slides/slides.html#havanese",
+    "title": "My Dog",
+    "section": "Havanese",
+    "text": "Havanese\n\nimage\nBounty is a Havanese. Many Havanese are show dogs, but Bounty will only sit or shake for treats."
+  },
+  {
+    "objectID": "slides/slides.html#section",
+    "href": "slides/slides.html#section",
+    "title": "My Dog",
+    "section": "",
+    "text": "import matplotlib.pyplot as plt\nimport numpy as np\n\nypoints = np.array([3, 8, 1, 10])\n\nplt.plot(ypoints, linestyle = 'dotted')\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#section-1",
+    "href": "slides/slides.html#section-1",
+    "title": "My Dog",
+    "section": "",
+    "text": "Curiel, John A, and Kevin DeLuca. 2024. “The Power of Characters: Evaluating Machine Learning-Modified Bayesian Improved Surname Geocoding Inference of Race in Redistricting.” State Politics & Policy Quarterly, 1–22."
+  }
+]

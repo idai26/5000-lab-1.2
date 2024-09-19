@@ -1,0 +1,69 @@
+---
+title: "simple_quarto_website"
+bibliography: reference.bib
+toc: true
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+# Section 1: Text
+
+My Dog!
+
+![image](./images/IMG_5564.jpg){width=50%}
+
+::::columns
+::: {.column}
+Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah 
+:::
+
+::: {.column}
+Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah Blah
+:::
+::::
+
+>"A journey of a thousand miles begins with a single step"[^1]
+
+
+## Section 1.1
+
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+    + Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+    + Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. [@curiel2024power]
+
+<h4>Another photo of my dog, Bounty! </h4>
+
+![image](./images/IMG_9443.jpg){width=50%}
+
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
+
+### Section 1.1.1
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Also, $y = mx+b$!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBjft49MAO8?si=iz2q5KemgYq70MrN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+$$
+\hat{y_i}=\hat{\beta_0}+\hat{\beta_1}X_i+\epsilon_i
+$$
+
+# Section 2: Class Schedule
+
+| Class    | Professor |
+| :-------- | :------- |
+| DSAN 5000  | Professor Hickman  |
+| DSAN 5100 | Professor Jacobs     |
+
+[^1]: 道德经
+
+
